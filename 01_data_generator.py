@@ -1,6 +1,6 @@
 """
 STEP 1 — DATA GENERATOR
-Generates realistic 3-year synthetic sales data matching the star schema.
+Generates realistic synthetic sales data matching the star schema.
 Run this first to create all CSV files used in the project.
 """
 
